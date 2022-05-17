@@ -354,7 +354,6 @@ tigoinari.tk
 thebins.cf
 jx.qingdaosheng.com
 cnc.krakenbit.net
-http://payload.krakenbit.net
 a.tigoinari.tk
 nnews.co
 statsads.co
