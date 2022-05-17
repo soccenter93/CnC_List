@@ -239,3 +239,4 @@ http://41.216.189.209/bins/aqua.mpsl
 http://185.44.81.9/bins/aqua.mpsl
 http://188.132.179.254/ldr.sh
 http://node.hyzenetwork.net
+http://payload.krakenbit.net
